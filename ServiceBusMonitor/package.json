@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "applicationinsights": "^0.22.0",
+    "azure-sb": "^0.10.4"
+  }
+}
